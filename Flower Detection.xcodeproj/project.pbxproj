@@ -13,6 +13,7 @@
 		108BCB1E24558FF8006CDF9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 108BCB1C24558FF8006CDF9A /* Main.storyboard */; };
 		108BCB2024558FFA006CDF9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 108BCB1F24558FFA006CDF9A /* Assets.xcassets */; };
 		108BCB2324558FFA006CDF9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 108BCB2124558FFA006CDF9A /* LaunchScreen.storyboard */; };
+		108BCB2B24559024006CDF9A /* FlowerClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 108BCB2A24559024006CDF9A /* FlowerClassifier.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		108BCB1F24558FFA006CDF9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		108BCB2224558FFA006CDF9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		108BCB2424558FFA006CDF9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		108BCB2A24559024006CDF9A /* FlowerClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = FlowerClassifier.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				108BCB1F24558FFA006CDF9A /* Assets.xcassets */,
 				108BCB2124558FFA006CDF9A /* LaunchScreen.storyboard */,
 				108BCB2424558FFA006CDF9A /* Info.plist */,
+				108BCB2A24559024006CDF9A /* FlowerClassifier.mlmodel */,
 			);
 			path = "Flower Detection";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				108BCB2B24559024006CDF9A /* FlowerClassifier.mlmodel in Sources */,
 				108BCB1B24558FF8006CDF9A /* ViewController.swift in Sources */,
 				108BCB1724558FF8006CDF9A /* AppDelegate.swift in Sources */,
 				108BCB1924558FF8006CDF9A /* SceneDelegate.swift in Sources */,
