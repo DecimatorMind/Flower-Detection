@@ -1,5 +1,8 @@
+
+
 # Flower-Detection
 A simple flower recoginition application based on Oxford102 ML Model
+This project was made in order to learn basic use of a ML Model.
 
 ## File Structure
 
