@@ -1,4 +1,4 @@
-
+![](https://img.shields.io/badge/Author-Pranjal_Bhardwaj-green)![](https://img.shields.io/badge/Language-Swift-orange)
 
 # Flower-Detection
 A simple flower recoginition application based on Oxford102 ML Model
